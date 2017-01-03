@@ -2,7 +2,7 @@
 layout:     notebook
 title:      SQL Crowdfunding Lab
 author:     Max
-tags: 		post
+tags: 		Lab
 subtitle:   Flatiron School
 category:   Flatiron School
 ---

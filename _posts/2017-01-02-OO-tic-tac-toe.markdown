@@ -2,7 +2,7 @@
 layout:     notebook
 title:      Object-Oriented Tic Tac Toe
 author:     Max
-tags: 		post
+tags: 		Lab
 subtitle:   Flatiron School
 category:   Flatiron School
 ---
