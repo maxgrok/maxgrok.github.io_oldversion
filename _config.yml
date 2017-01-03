@@ -8,7 +8,7 @@ url: "https://maxgrok.github.io"
 
 # Secondary Parameters
 baseurl: "/"
-header-img: "img/forrest.jpeg"
+header-img: img/forrest.jpg
 headercolor: "#FFFFFF"
 logo: img/avatar.png
 
