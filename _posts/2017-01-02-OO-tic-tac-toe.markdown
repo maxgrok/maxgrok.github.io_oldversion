@@ -305,5 +305,5 @@ class TicTacToe
 end
 {% endhighlight %}
 
-##All the Best,
-##Max
+All the Best,
+Max

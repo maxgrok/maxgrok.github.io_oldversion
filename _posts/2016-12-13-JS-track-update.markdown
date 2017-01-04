@@ -21,6 +21,5 @@ I'm completing some of the advanced Javascript material including map(), reduce(
 
 I'll update this again soon.  
 
-## All the Best, 
-
-## Max  
+All the Best, 
+Max  

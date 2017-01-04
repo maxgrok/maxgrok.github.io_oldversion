@@ -19,6 +19,5 @@ I'm going to complete tackle the Javascript Track. It's 77% complete. I'm curren
 
 I'll update this again soon.  
 
-## All the Best, 
-
-## Max  
+All the Best, 
+Max  

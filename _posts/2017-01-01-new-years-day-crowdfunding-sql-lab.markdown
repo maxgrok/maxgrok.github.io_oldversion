@@ -97,6 +97,6 @@ In this case, the query returned the sum total of all the pledges for the books 
 
 TL;DR - Overall, I continued to learn and practice how to create schemas, insert seed data, draw UML/ERD diagrams, write complex join statements, and write complex query statements in SQLite3. 
 
-## All the Best,
-## Max
+All the Best,
+Max
 
