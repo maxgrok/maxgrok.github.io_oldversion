@@ -1,19 +1,19 @@
 # Site settings
-title: An Optimistic Futurist
+title: maxgrok
 description: "A Coding Journey"
 url: "https://maxgrok.github.io"
 
 
 
 # Secondary Parameters
-baseurl: "/maxgrok.github.io/"
+baseurl: ""
 header-img: img/student_coding.jpeg
 headercolor: "#FFFFFF"
 logo: img/avatar.png
 
 # Tertiary Parameters
 github_username:  maxgrok 
-project_repository: maxgrok-blog
+project_repository: maxgrok.github.io
 disqus_shortname: maxgrok
 g-analytics: UA-88591249-1
 altmetric: true
