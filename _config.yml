@@ -2,13 +2,13 @@
 title: An Optimistic Futurist
 description: "A Coding Journey"
 url: "https://maxgrok.github.io"
-
+header-img: img/forrest.jpeg
 
 
 
 # Secondary Parameters
 baseurl: "/maxgrok.github.io/"
-header-img: img/forrest.jpeg
+header-img: img/student_coding.jpeg
 headercolor: "#404040"
 logo: img/avatar.png
 
