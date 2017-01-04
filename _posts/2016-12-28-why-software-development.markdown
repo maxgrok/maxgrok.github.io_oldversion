@@ -3,7 +3,7 @@ layout:     notebook
 title:      Why I Choose Software Development
 author:     Max
 tags: 		post
-subtitle:   Code
+subtitle:   Coding for the Future
 category:   Code
 ---
 
