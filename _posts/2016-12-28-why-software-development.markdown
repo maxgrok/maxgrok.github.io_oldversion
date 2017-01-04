@@ -4,7 +4,7 @@ title:      Why I Choose Software Development
 author:     Max
 tags: 		post
 subtitle:   Coding for the Future
-category:   Code
+category:   Coding for the Future
 ---
 
 I'd like to help build a bright future with smart, kind, passionate people. 
