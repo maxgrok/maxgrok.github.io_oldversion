@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "What is this for?"
+description: ""
 header-img: "img/forrest.jpeg"
 ---
 
