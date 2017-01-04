@@ -26,4 +26,4 @@ All the Best,
 
 Max
 
-p.s. This is subject to refactoring. My reasons for being a software developer may change. 
+p.s. This is subject to refactoring. My reasons for being a software developer and interests may change. 
