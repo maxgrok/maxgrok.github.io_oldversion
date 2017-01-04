@@ -19,7 +19,7 @@ I can contribute to the following areas. Tackling inequity or efficacy in educat
 
 The companies that currently inspire me are <a href="http://www.airbnb.com/">AirBnB</a>,<a href="http://www.yelp.com/"> Yelp!</a>,<a href="http://www.foursquare.com/"> Foursquare</a>, <a href="http://www.donorschoose.org/">Donorschoose.org</a>,<a href="http://www.couchsurfing.com/">Couchsurfing.org</a>, and <a href="http://www.tesla.com/">Tesla</a>. I'm also inspired by <a href="https://en.wikipedia.org/wiki/Public-benefit_corporation">Public Benefit Corporations</a>(such as <a href="http://www.patagonia.com/">Patagonia</a>), <a href="https://en.wikipedia.org/wiki/Hackerspace">hackerspaces </a>(such as the <a href="http://www.baltimorenode.org/">Baltimore Node</a>), and collectives (such as <a href="http://www.redemmas.org/">Red Emmas</a> and <a href ="http://bluestockings.com/">Bluestockings</a>).  
 
-I'm learning to code to build a bright future and solve problems with kind, passionate people. 
+All in all, I'm learning to code to build a bright future and solve problems with kind, passionate people. 
 
 
 All the Best,
