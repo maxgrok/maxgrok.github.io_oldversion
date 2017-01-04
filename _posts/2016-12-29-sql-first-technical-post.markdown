@@ -72,4 +72,6 @@ To find the last query, I discovered the DISTINCT feature for SQL. My problem wa
 
 TL;DR - Overall, I learned how to create schemas, insert seed data, draw UML/ERD diagrams, update data, write complex join statements, and write complex query statements in SQLite3. 
 
+All the Best,
 
+Max

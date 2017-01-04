@@ -15,3 +15,6 @@ Software developers get to decide what kind of future they want to build and wha
 
 TL;DR I'm learning software development to build a bright future and solve problems. 
 
+All the Best,
+
+Max
