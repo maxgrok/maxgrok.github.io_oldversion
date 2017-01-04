@@ -19,6 +19,9 @@ The companies that currently inspire me are <a href="http://www.airbnb.com/">Air
 
 I'm learning to code to build a bright future and solve problems with kind, passionate people. 
 
+
 All the Best,
 
 Max
+
+p.s. This is subject to refactoring. My reasons for being a software developer may change. 
