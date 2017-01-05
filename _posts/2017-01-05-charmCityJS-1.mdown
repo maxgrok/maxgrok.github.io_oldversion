@@ -75,7 +75,7 @@ I have questions like the following: What does a typical interaction look like? 
 
 <strong>In Conclusion</strong><br><br>
 
-I'm happy to have attended the talk. I am curious about making my own open source hardware, coding modules using webpack and babel, and making Slack bots now.  In the future, I'll be happy I attended this talk, especially as I cover React. I am glad to have been exposed to new ideas and new questions for my journey. <br><br>
+I'm happy to have attended the talk. I am curious about making my own open source hardware, coding modules using webpack and babel, and making Slack bots now.  In the future, I'll be happy I attended this talk, especially as I cover React. I am glad to have been exposed to new ideas and new questions. <br><br>
 
 <a href="http://www.baltimorenode.org/">Baltimore Node</a> is hosting a Microcontroller Monday talk soon. I may attend and fool around with an Arduino. <br><br>
 
