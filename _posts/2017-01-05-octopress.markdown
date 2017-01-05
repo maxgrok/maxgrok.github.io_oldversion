@@ -1,6 +1,10 @@
 ---
-layout: post
-title: "Octopress"
+layout:     post
+title:      Octopress
+author:     Max
+tags: 		Update
+subtitle:   Blog Scaffolding
+category:   Blog Scaffolding
 date: 2017-01-05T17:54:20-05:00
 ---
 
