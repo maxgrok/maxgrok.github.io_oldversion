@@ -21,4 +21,4 @@ New draft: _drafts/new-draft.markdown{% endhighlight %}
 Now, this site is made using <a href="https://github.com/octopress/octopress">Octopress</a>, <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://jekyllthemes.org/themes/project-pages/">project-pages theme</a>, <a href="https://git-scm.com/">git</a>, and <a href="http://www.github.com/">Github</a>. 
 
 One Dilemma: 
-The YAML format for the top of the posts is not quite the same as the template, so I need to copy and paste to make sure it matches other posts. I'm researching if there is a way to customize that feature with Octopress so that it can by default generate a certain type of post within the theme when typed ```octopress new post "New Post" ```.  
+The YAML format for the top of the posts is not quite the same as the template, so I need to copy and paste to make sure it matches other posts. Some time in the future, I'll be researching if there is a way to customize that feature with Octopress and how so that it can by default generate a certain type of post within the theme when typed ```octopress new post "New Post" ```.  
