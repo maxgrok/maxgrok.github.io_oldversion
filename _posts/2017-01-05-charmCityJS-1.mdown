@@ -1,0 +1,38 @@
+---
+layout:     notebook
+title:      Webpack, Slack Bots, and more...
+author:     Max
+tags: 		Talk Attended
+subtitle:   charmCityJS
+category:   charmCityJS
+---
+
+Last night, I had the pleasure of attending the <a href="https://www.meetup.com/charmcityjs/events/228557319/">charmCityJS monthly meetup</a> for the first time. I met a few nice folks and heard three separate talks on javascript. While I didn't completely grok everything, I could understand the basics of what was discussed. <br><br>
+
+First, I learned that the group has a slack channel, then I joined it. There are over 150 participants. <br><br>
+
+#1. Javascript and Open Source Hardware <br><br>
+
+John Eisenhardt delivered the first talk on Javascript and open source hardware. He introduced his own open source hardware design and encouraged meetup attendees to experiment with raspberry pi's and other open source hardware components to develop better Internet-of-Things devices. He mentioned that development was not quite as accessible through a software component as it needed to be and that the IoT has not been as developed as it needs to be to be user-friendly for regular Javascript developers.
+
+#2. Making imaginary modules real with Webpack and Babel<br><br>
+
+I hadn't heard of Babel or Webpack before this talk. <br>
+
+Someone that I met at the talk mentioned that Webpack was like Grunt except larger in scope. <br>
+
+I had heard of Grunt before, but had wrongly attributed it to being like a package manager, when, in fact, it is a taskrunner. <br>
+
+A task runner is a way to run automation for activities such as minification for javascript files. This makes ones job easier by saving time. According to the GruntJS site, a taskrunner is used to "automate just about anything with a minimum of effort." You can configure it through a Gruntfile. Another task runner is Gulp. According to his <a href="https://www.quora.com/What-are-the-differences-between-Grunt-and-Gulp-js">Quora answer</a>, Matthias Peter Johansson says that "Gulp does essentially the same thing as Grunt but with a more modern interface (streams)." <br><br>
+
+Why use a taskrunner? <br>
+
+To paraphrase the GruntJS site, the less repetitive work you need to do, the easier your javascript developing job becomes. <br><br>
+
+What is Webpack?<br><br>
+
+According to Juho Vepsäläinen, author of "SurviveJS - Webpack and React", "In short Webpack is a module bundler. It takes in a bunch of assets (ie. source, images, markup, CSS, ...) and turns that into something you can provide to the client." <br>
+
+<div class="img_container">
+![what-is-webpack]({{site.baseurl}}/img/what-is-webpack.png){: margin="0px auto;"}
+</div>
