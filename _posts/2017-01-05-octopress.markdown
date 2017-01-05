@@ -15,10 +15,8 @@ Why?<br>
 Octopress lets you do cool, easy things from the command line such as generate a post, a draft, publish a draft, unpublish a post, etc. 
 
 Here's an example:
-{% highlight %} 
-octopress new draft "New Draft"
-New draft: _drafts/new-draft.markdown
-{% endhighlight %}
+{% highlight %} octopress new draft "New Draft"
+New draft: _drafts/new-draft.markdown{% endhighlight %}
 
 Now, this site is made of <a href="https://github.com/octopress/octopress">Octopress</a>, <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://jekyllthemes.org/themes/project-pages/">project-pages theme</a>, <a href="https://git-scm.com/">git</a>, and <a href="http://www.github.com/">Github</a>. 
 
