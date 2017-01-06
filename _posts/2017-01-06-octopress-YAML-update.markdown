@@ -10,12 +10,12 @@ date: 2017-01-06T14:57:15-05:00
 
 ### What is YAML? 
 
-YAML originally stood for "Yet Another Markup Language". Now, it stands for "YAML - Ain't Markup Language"[^1]. YAML is "a human friendly data serialization
-  standard for all programming languages"[^2]. It is "commonly used for configuration files, but could be used in many applications where data is being stored (e.g. debugging output) or transmitted (e.g. document headers)"[^3]. 
+YAML originally stood for "Yet Another Markup Language"("Wiktionary - YAML"). Now, it stands for "YAML - Ain't Markup Language" ("Wiktionary - YAML"). YAML is "a human friendly data serialization
+  standard for all programming languages" ("The Official YAML Site"). It is "commonly used for configuration files, but could be used in many applications where data is being stored (e.g. debugging output) or transmitted (e.g. document headers)" ("Wikipedia - YAML"). 
 
 ### What is front matter? 
 
-  Front matter is "the first section of a book and is generally the shortest; it is also sometimes called the prelims, or preliminary matter"[^4].
+  Front matter is "the first section of a book and is generally the shortest; it is also sometimes called the prelims, or preliminary matter" ("Front Matter: What It Is and Why It Is Important.").
 
 ### What is YAML front matter?
 
@@ -82,11 +82,6 @@ published: false
 I'm excited to have found and fixed the problem this quickly! 
 
 Now, I need the Disqus comments to work. I'll be up and running in no time! 
-
-[^1]:For more information see YAML." YAML - Wiktionary. N.p., n.d. Web. 06 Jan. 2017.
-[^2]:For more information see "The Official YAML Web Site." The Official YAML Web Site. N.p., n.d. Web. 06 Jan. 2017. 
-[^3]:For more information see "YAML." Wikipedia. Wikimedia Foundation, n.d. Web. 06 Jan. 2017.
-[^4]:For more information see Inc, Scribendi. "Front Matter: What It Is and Why It Is Important." Scribendi.com. N.p., n.d. Web. 06 Jan. 2017.
 
 <p style="margin:0 auto;">Works Cited (MLA 7):</p> 
 Inc, Scribendi. "Front Matter: What It Is and Why It Is Important." Scribendi.com. N.p., n.d. Web. 06 Jan. 2017.
