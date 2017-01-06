@@ -87,7 +87,7 @@ Now, I need the Disqus comments to work. I'll be up and running in no time!
 <small> 
 Inc, Scribendi. "Front Matter: What It Is and Why It Is Important." Scribendi.com. N.p., n.d. Web. 06 Jan. 2017. <a href="https://www.scribendi.com/advice/front_matter.en.html">https://www.scribendi.com/advice/front_matter.en.html</a><br>
 "The Official YAML Web Site." The Official YAML Web Site. N.p., n.d. Web. 06 Jan. 2017. <a href="http://yaml.org/">http://yaml.org/</a>.<br>
-"YAML - Wiktionary." N.p., n.d. Web. 06 Jan. 2017. <a href="https://en.wiktionary.org/wiki/YAML">https://en.wiktionary.org/wiki/YAML</a>
+"YAML - Wiktionary." N.p., n.d. Web. 06 Jan. 2017. <a href="https://en.wiktionary.org/wiki/YAML">https://en.wiktionary.org/wiki/YAML</a><br>
 "YAML." Wikipedia. Wikimedia Foundation, n.d. Web. 06 Jan. 2017. <a href="https://en.wikipedia.org/wiki/YAML">https://en.wikipedia.org/wiki/YAML</a><br>
 </small>
 [^1]:Used MLA 2016 via this cite: <a href="https://owl.english.purdue.edu/owl/resource/747/08/">https://owl.english.purdue.edu/owl/resource/747/08/</a>
