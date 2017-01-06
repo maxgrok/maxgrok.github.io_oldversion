@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "New Post"
+date: 2017-01-06T16:47:30-05:00
 author: Max
 tags: Update
 subtitle: Update
 category: Update
-date: 2017-01-06T16:47:30-05:00
 published: true
 ---
 
