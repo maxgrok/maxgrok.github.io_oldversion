@@ -90,4 +90,6 @@ Inc, Scribendi. "Front Matter: What It Is and Why It Is Important." Scribendi.co
 "YAML - Wiktionary." N.p., n.d. Web. 06 Jan. 2017. <a href="https://en.wiktionary.org/wiki/YAML">https://en.wiktionary.org/wiki/YAML</a><br>
 "YAML." Wikipedia. Wikimedia Foundation, n.d. Web. 06 Jan. 2017. <a href="https://en.wikipedia.org/wiki/YAML">https://en.wikipedia.org/wiki/YAML</a><br>
 </small>
+<br>
+<br>
 <small>[^footnote]:Used MLA 2016 via this cite: <a href="https://owl.english.purdue.edu/owl/resource/747/08/">https://owl.english.purdue.edu/owl/resource/747/08/</a></small>
