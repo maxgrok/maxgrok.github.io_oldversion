@@ -86,16 +86,16 @@ Thanks for the stimulation! Looking forward to future meetups!<br><br>
 
 <p style ="text-align:center">Works Cited</p>
 
-"Arduino - Blink." Arduino - Blink. N.p., n.d. Web. 05 Jan. 2017. <a href="https://www.arduino.cc/en/Tutorial/Blink"><https://www.arduino.cc/en/Tutorial/Blink></a>.<br>
-"CharmCityJs." Meetup. N.p., n.d. Web. 05 Jan. 2017. <a href="https://www.meetup.com/charmcityjs/"><https://www.meetup.com/charmcityjs/></a>.<br>
-"CharmCityJs - Monthly Meetup." Meetup. N.p., n.d. Web. 06 Jan. 2017. <a href="https://www.meetup.com/charmcityjs/events/228557319/"><https://www.meetup.com/charmcityjs/events/228557319/></a>.<br>
-"Grunt: The JavaScript Task Runner." Grunt Blog. N.p., n.d. Web. 05 Jan. 2017. <a href="http://gruntjs.com/"><http://gruntjs.com/></a>.<br>
-Haverbeke, Marijn. "Chapter 10 - Modules." Modules :: Eloquent JavaScript. No Starch Press, 14 Dec. 2014. Web. 05 Jan. 2017. <a href="http://eloquentjavascript.net/10_modules.html"><http://eloquentjavascript.net/10_modules.html></a><br>
-Johansson, Mattias Petter. "What Are the Differences between Grunt and Gulp.js?" Quora. Quora, 4 May 2014. Web. 5 Jan. 2017.<a href="https://www.quora.com/What-are-the-differences-between-Grunt-and-Gulp-js"><https://www.quora.com/What-are-the-differences-between-Grunt-and-Gulp-js></a>.<br>
-"Learn Ruby on Rails." Codecademy. Codecademy, n.d. Web. 05 Jan. 2017. <a href="https://www.codecademy.com/learn/learn-rails"><https://www.codecademy.com/learn/learn-rails></a>.<br>
-Moore, Josh. "Difference between a Class and a Module." Ruby - Difference between a Class and a Module - Stack Overflow. StackExchange, 30 Sept. 2008. Web. 05 Jan. 2017. <a href="http://stackoverflow.com/questions/151505/difference-between-a-class-and-a-module"><http://stackoverflow.com/questions/151505/difference-between-a-class-and-a-module></a>.<br> 
-"Ruby." Libraries. Ruby-lang, n.d. Web. 05 Jan. 2017. <a href="https://www.ruby-lang.org/en/libraries/"><https://www.ruby-lang.org/en/libraries/></a>.<br>
-"Ruby on Rails: Authentication." Codecademy. Codecademy, n.d. Web. 05 Jan. 2017. <a href="https://www.codecademy.com/learn/rails-auth"><https://www.codecademy.com/learn/rails-auth></a>.<br>
-Velchevski, Martin. "What Exactly Is BabelJs? Why Does It Understand JSX/React Components?" Quora. Quora, 2 Dec. 2015. Web. 05 Jan. 2017. <a href="https://www.quora.com/What-exactly-is-BabelJs-Why-does-it-understand-JSX-React-components"><https://www.quora.com/What-exactly-is-BabelJs-Why-does-it-understand-JSX-React-components></a>.<br>
-Vepsäläinen, Juho. "What Is Webpack?" Quora. Quora, 15 June 2015. Web. 05 Jan. 2017. <a href="https://www.quora.com/What-is-webpack"><https://www.quora.com/What-is-webpack></a>.<br>
-"What Is a Gem? - RubyGems Guides." What Is a Gem? - RubyGems Guides. RubyGems, n.d. Web. 05 Jan. 2017. <a href="http://guides.rubygems.org/what-is-a-gem/"><http://guides.rubygems.org/what-is-a-gem/></a><br>
+"Arduino - Blink." Arduino - Blink. N.p., n.d. Web. 05 Jan. 2017. <a href="https://www.arduino.cc/en/Tutorial/Blink">https://www.arduino.cc/en/Tutorial/Blink</a>.<br>
+"CharmCityJs." Meetup. N.p., n.d. Web. 05 Jan. 2017. <a href="https://www.meetup.com/charmcityjs/">https://www.meetup.com/charmcityjs/</a>.<br>
+"CharmCityJs - Monthly Meetup." Meetup. N.p., n.d. Web. 06 Jan. 2017. <a href="https://www.meetup.com/charmcityjs/events/228557319/">https://www.meetup.com/charmcityjs/events/228557319/</a>.<br>
+"Grunt: The JavaScript Task Runner." Grunt Blog. N.p., n.d. Web. 05 Jan. 2017. <a href="http://gruntjs.com/">http://gruntjs.com/</a>.<br>
+Haverbeke, Marijn. "Chapter 10 - Modules." Modules :: Eloquent JavaScript. No Starch Press, 14 Dec. 2014. Web. 05 Jan. 2017. <a href="http://eloquentjavascript.net/10_modules.html">http://eloquentjavascript.net/10_modules.html</a><br>
+Johansson, Mattias Petter. "What Are the Differences between Grunt and Gulp.js?" Quora. Quora, 4 May 2014. Web. 5 Jan. 2017.<a href="https://www.quora.com/What-are-the-differences-between-Grunt-and-Gulp-js">https://www.quora.com/What-are-the-differences-between-Grunt-and-Gulp-js</a>.<br>
+"Learn Ruby on Rails." Codecademy. Codecademy, n.d. Web. 05 Jan. 2017. <a href="https://www.codecademy.com/learn/learn-rails">https://www.codecademy.com/learn/learn-rails</a>.<br>
+Moore, Josh. "Difference between a Class and a Module." Ruby - Difference between a Class and a Module - Stack Overflow. StackExchange, 30 Sept. 2008. Web. 05 Jan. 2017. <a href="http://stackoverflow.com/questions/151505/difference-between-a-class-and-a-module">http://stackoverflow.com/questions/151505/difference-between-a-class-and-a-module</a>.<br> 
+"Ruby." Libraries. Ruby-lang, n.d. Web. 05 Jan. 2017. <a href="https://www.ruby-lang.org/en/libraries/">https://www.ruby-lang.org/en/libraries/</a>.<br>
+"Ruby on Rails: Authentication." Codecademy. Codecademy, n.d. Web. 05 Jan. 2017. <a href="https://www.codecademy.com/learn/rails-auth">https://www.codecademy.com/learn/rails-auth</a>.<br>
+Velchevski, Martin. "What Exactly Is BabelJs? Why Does It Understand JSX/React Components?" Quora. Quora, 2 Dec. 2015. Web. 05 Jan. 2017. <a href="https://www.quora.com/What-exactly-is-BabelJs-Why-does-it-understand-JSX-React-components">https://www.quora.com/What-exactly-is-BabelJs-Why-does-it-understand-JSX-React-components</a>.<br>
+Vepsäläinen, Juho. "What Is Webpack?" Quora. Quora, 15 June 2015. Web. 05 Jan. 2017. <a href="https://www.quora.com/What-is-webpack">https://www.quora.com/What-is-webpack</a>.<br>
+"What Is a Gem? - RubyGems Guides." What Is a Gem? - RubyGems Guides. RubyGems, n.d. Web. 05 Jan. 2017. <a href="http://guides.rubygems.org/what-is-a-gem/">http://guides.rubygems.org/what-is-a-gem/</a><br>.
