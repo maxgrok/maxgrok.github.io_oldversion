@@ -2,8 +2,8 @@
 layout: post
 title: "YAML _templates"
 author: Max
-tags: Update
-subtitle: Update
+tags: Octopress YAML _templates Update
+subtitle: Octopress Update
 category: Blog Scaffolding
 date: 2017-01-06T14:57:15-05:00
 ---
