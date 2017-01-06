@@ -84,7 +84,7 @@ I'm excited to have found and fixed the problem this quickly!
 Now, I need the Disqus comments to work. I'll be up and running in no time! 
 
 <p style="margin:0 auto;">Works Cited (MLA 7):</p> 
-Inc, Scribendi. "Front Matter: What It Is and Why It Is Important." Scribendi.com. N.p., n.d. Web. 06 Jan. 2017.
-"The Official YAML Web Site." The Official YAML Web Site. N.p., n.d. Web. 06 Jan. 2017. 
-YAML." YAML - Wiktionary. N.p., n.d. Web. 06 Jan. 2017.
-"YAML." Wikipedia. Wikimedia Foundation, n.d. Web. 06 Jan. 2017.
+Inc, Scribendi. "Front Matter: What It Is and Why It Is Important." Scribendi.com. N.p., n.d. Web. 06 Jan. 2017.<br>
+"The Official YAML Web Site." The Official YAML Web Site. N.p., n.d. Web. 06 Jan. 2017. <br>
+YAML." YAML - Wiktionary. N.p., n.d. Web. 06 Jan. 2017.<br>
+"YAML." Wikipedia. Wikimedia Foundation, n.d. Web. 06 Jan. 2017.<br>
