@@ -50,6 +50,7 @@ tags: 		Update
 subtitle:   Blog Scaffolding
 category:   Blog Scaffolding
 date: 2017-01-05T17:54:20-05:00
+published: false
 ---
 {% endhighlight %}
 
@@ -65,6 +66,7 @@ tags: Update
 subtitle: Update
 category: Update
 date: 2017-01-06T15:06:54-05:00
+published: false
 ---
 {% endhighlight %}
 
