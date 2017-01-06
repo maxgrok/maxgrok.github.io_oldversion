@@ -7,7 +7,7 @@ subtitle:   charmCityJS
 category:   charmCityJS
 comments: true
 ---
-<strong>TL;DR  Last night, I had the pleasure of attending the <a href="https://www.meetup.com/charmcityjs/events/228557319/">charmCityJS monthly meetup</a>("charmCityJS Meetup"). for the first time. I met nice people and heard three talks related to Javascript. Looking forward to future meetups! </strong> <br><br>
+<strong>TL;DR  Last night, I had the pleasure of attending the <a href="https://www.meetup.com/charmcityjs/events/228557319/">charmCityJS monthly meetup</a> for the first time. I met nice people and heard three talks related to Javascript. Looking forward to future meetups! </strong> <br><br>
 
 <strong>1. Javascript and Open Source Hardware</strong><br><br>
 
