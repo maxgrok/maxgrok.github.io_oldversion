@@ -7,4 +7,5 @@ subtitle: Update
 category: Update
 date: {{ date }}
 published: true
+comments: true
 ---

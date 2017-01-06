@@ -5,6 +5,7 @@ author:     Max
 tags:         post
 subtitle:   Coding for the Future
 category:   Coding for the Future
+comments: true
 ---
 
 I'd like to help build a bright future with kind, passionate people. 

@@ -5,6 +5,7 @@ author:     Max
 tags: 		Lab
 subtitle:   Flatiron School
 category:   Flatiron School
+comments: true
 ---
 
 In this assignment, I was tasked with building a database schema, creating the UML/ERD, inserting data, updating data, and writing complex queries for the data in SQLite3 using the command line or an SQL browser such as Base. 

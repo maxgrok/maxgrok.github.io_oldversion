@@ -5,6 +5,7 @@ author:     Max
 tags: 		post
 subtitle:   Flatiron School
 category:   Flatiron School
+comments: true
 ---
 
 # Basic Javascript Track Complete!

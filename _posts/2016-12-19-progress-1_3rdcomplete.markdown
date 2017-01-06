@@ -5,6 +5,7 @@ author:     Max
 tags: 		post
 subtitle:   Flatiron School
 category:   Flatiron School
+comments: true
 ---
 
 # 1/3rd completed! && Ruby Unstuck!

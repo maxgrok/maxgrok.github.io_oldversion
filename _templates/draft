@@ -6,4 +6,5 @@ tags: Update
 subtitle: Update
 category: Update
 date: {{ date }}
+comments: true
 ---

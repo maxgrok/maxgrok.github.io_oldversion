@@ -5,6 +5,7 @@ author:     Max
 tags: 		Lab
 subtitle:   Flatiron School
 category:   Flatiron School
+comments: true
 ---
 
 Happy New Year! 

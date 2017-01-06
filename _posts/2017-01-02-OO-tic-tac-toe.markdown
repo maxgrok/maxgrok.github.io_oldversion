@@ -5,6 +5,7 @@ author:     Max
 tags: 		Lab
 subtitle:   Flatiron School
 category:   Flatiron School
+comments: true
 ---
 
 In this assignment, I built a two player game of tic tac toe using object orientation. I use a previously completed ruby tic tac toe game, then convert it to object orientation using a class called TicTacToe. 
