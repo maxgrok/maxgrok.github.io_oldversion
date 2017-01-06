@@ -10,8 +10,8 @@ date: 2017-01-06T14:57:15-05:00
 
 ### What is YAML? 
 
-YAML originally stood for "Yet Another Markup Language".Now, it stands for "YAML - Ain't Markup Language"[^1]. YAML is "a human friendly data serialization
-  standard for all programming languages" [^2].It is "commonly used for configuration files, but could be used in many applications where data is being stored (e.g. debugging output) or transmitted (e.g. document headers)"[^3]. 
+YAML originally stood for "Yet Another Markup Language". Now, it stands for "YAML - Ain't Markup Language"[^1]. YAML is "a human friendly data serialization
+  standard for all programming languages"[^2]. It is "commonly used for configuration files, but could be used in many applications where data is being stored (e.g. debugging output) or transmitted (e.g. document headers)"[^3]. 
 
 ### What is front matter? 
 
