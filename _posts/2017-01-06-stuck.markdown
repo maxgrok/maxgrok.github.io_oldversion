@@ -68,14 +68,14 @@ I'm confused about how to actually implement this though.
 I've tried this: 
 {% highlight ruby %}
 def sort
-		array = []	
-		@roster.each do |pairs|
-			pairs.each do |student|
-				array.push(student)
-			end
+	array = []	
+	@roster.each do |pairs|
+		pairs.each do |student|
+			array.push(student)
 		end
-		return array
 	end
+	return array
+end
 {% endhighlight %}
 
 However, this does not work. It does not store the students in an array. It outputs the following results from the spec tests: 
