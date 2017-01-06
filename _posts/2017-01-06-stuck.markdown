@@ -62,7 +62,7 @@ rspec ./spec/student_spec.rb:49 # School #sort is able to sort the students
 
 The students are not alphabetized. 
 
-I asked a few people at the Baltimore Node for help. They recommended that I take out all the students and sort them individually as I iterate through the Hash, then place them back where they were. They also recommended that if that didn't work, take out all the students, then sort them back in the order they were in, then return them into the Hash. 
+I asked a few people at the Baltimore Node for help. They recommended that I take out all the students and sort them individually as I iterate through the hash, then place them back where they were. They also recommended that if that didn't work, take out all the students, then sort them back in the order they were in, then return them into the Hash. 
 
 I'm confused about how to actually implement this though. 
 I've tried this: 
