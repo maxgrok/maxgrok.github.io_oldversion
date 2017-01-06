@@ -94,7 +94,7 @@ Failed examples:
 rspec ./spec/student_spec.rb:49 # School #sort is able to sort the students
 {% endhighlight %}
 
-I changed the code to convert the result of the iterations into a hash and sort them by adding ```end.sort.to_h```. I looked up how to alphabetize elements in an array on <a href="https://stackoverflow.com/questions/17799871/how-do-i-alphabetize-an-array-ignoring-case">Stackexchange</a>("How do I alphabetize an array ignoring case?").<br> Found this:
+I changed the code to convert the result of the iterations into a hash and sort them by adding ```end.sort.to_h```. I looked up how to alphabetize elements in an array on <a href="https://stackoverflow.com/questions/17799871/how-do-i-alphabetize-an-array-ignoring-case">Stackexchange</a>  ("How do I alphabetize an array ignoring case?").<br> I found this:
 {% highlight ruby %}
 wordlist.sort_by(&:downcase)
 {% endhighlight %}
