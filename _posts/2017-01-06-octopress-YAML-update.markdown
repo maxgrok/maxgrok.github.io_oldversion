@@ -87,5 +87,5 @@ Now, I need the Disqus comments to work. I'll be up and running in no time!
 
 [^1]:YAML." YAML - Wiktionary. N.p., n.d. Web. 06 Jan. 2017.
 [^2]:"The Official YAML Web Site." The Official YAML Web Site. N.p., n.d. Web. 06 Jan. 2017. 
-[^3]:(Crowdsourced, https://en.wikipedia.org/wiki/YAML, January 6th, 2017).
-[^4]:(Unknown, https://www.scribendi.com/advice/front_matter.en.html, January 6th, 2017).
+[^3]:"YAML." Wikipedia. Wikimedia Foundation, n.d. Web. 06 Jan. 2017.
+[^4]:Inc, Scribendi. "Front Matter: What It Is and Why It Is Important." Scribendi.com. N.p., n.d. Web. 06 Jan. 2017.
