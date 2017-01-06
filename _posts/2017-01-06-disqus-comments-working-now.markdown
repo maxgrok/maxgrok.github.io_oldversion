@@ -4,7 +4,7 @@ title: "Disqus Comments Working Now"
 author: Max
 tags: Update
 subtitle: Update
-category: Update
+category: Update Disqus
 date: 2017-01-06T17:41:34-05:00
 published: true
 comments: true
