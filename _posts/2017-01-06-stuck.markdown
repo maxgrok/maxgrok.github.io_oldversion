@@ -3,8 +3,8 @@ layout: post
 title: "Stuck"
 author: Max
 tags: Update
-subtitle: Update
-category: Update
+subtitle: Flatiron School
+category: Flatiron School
 date: 2017-01-06T17:56:42-05:00
 published: true
 comments: true
