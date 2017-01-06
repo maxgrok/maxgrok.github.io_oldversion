@@ -1,8 +1,4 @@
 ---
 layout: {{ layout }}
 title: "{{ title }}"
-author: Max
-tags: Update
-subtitle: Update
-category: Flatiron School
 ---
