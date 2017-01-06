@@ -7,8 +7,29 @@ subtitle: Octopress Update
 category: Blog Scaffolding
 date: 2017-01-06T14:57:15-05:00
 ---
+YAML is "a human friendly data serialization
+  standard for all programming languages"(Unknown, yaml.org, January 6th, 2017). It is "commonly used for configuration files, but could be used in many applications where data is being stored (e.g. debugging output) or transmitted (e.g. document headers)." (Crowdsourced, http://eng.wikipedia.org/wiki/YAML/, January 6th, 2017).
 
-I just resolved the YAML front matter problem that I was experiencing yesterday. The problem was that the posts were not formatted properly as the other manually generated posts were. The result of the ```octopress new post "New Post"``` command looked like the following.
+  What is front matter? 
+  Front matter is "the first section of a book and is generally the shortest; it is also sometimes called the prelims, or preliminary matter." (Unknown, https://www.scribendi.com/advice/front_matter.en.html, January 6th, 2017).
+
+  What is YAML front matter?
+  In this case, it is used for document headers for the site or any data that you want to be immediately incorporated into the new page, post, or draft for the static site. Information in the YAML front matter includes the date, layout, title, author, etc. 
+
+  What does it look like? 
+  {% highlight ruby %}
+---
+layout:     post
+title:      Octopress
+date: 2017-01-05T17:54:20-05:00
+---
+  {% endhighlight %} 
+
+What was the YAML front matter problem?
+
+ The problem was that the posts were not formatted properly as the other manually generated posts were. The result of the ```octopress new post "New Post"``` command looked like the following.
+
+ I just resolved the YAML front matter problem that I was experiencing yesterday. Here's how. 
 
 The YAML looked like this:
 {% highlight ruby %}
