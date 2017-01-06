@@ -81,7 +81,7 @@ end
 However, this does not work. It does not store the students in an array. It outputs the following results from the spec tests: 
 {% highlight ruby %}
 expected: {7=>["Blake Johnson", "Jack Bauer"], 9=>["Bart Simpson", "Homer Simpson"], 10=>["Avi Flombaum", "Jeff Baird"]}
-            got: [9, ["Homer Simpson", "Bart Simpson"], 10, ["Avi Flombaum", "Jeff Baird"], 7, ["Blake Johnson", "Jack Bauer"]]
+got: [9, ["Homer Simpson", "Bart Simpson"], 10, ["Avi Flombaum", "Jeff Baird"], 7, ["Blake Johnson", "Jack Bauer"]]
      
        (compared using ==)
      # ./spec/student_spec.rb:58:in `block (3 levels) in <top (required)>'
