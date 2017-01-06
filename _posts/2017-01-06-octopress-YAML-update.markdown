@@ -59,7 +59,11 @@ published: false
 ---
 {% endhighlight %}
 
-So, I learned that in the _templates folder that there are three files: one for drafts, one for pages, and one for posts. I edited the YAML for the post file. This created a template for the ```octopress new post "New Post"``` command to generate a post with the same YAML front matter as the other posts. 
+What's a YAML _template?
+
+It refers to the YAML front matter that is in the ```_templates``` folder. The files within the ```_templates``` folder signify templates for the YAML front matter for Octopress commands. For example, the ```post``` file contains the YAML front matter for the default to posts used in the ```octopress new post "New Post"``` command. The same is true for the draft and page files found by default in the ```_templates``` folder. 
+
+So, I learned that in the _templates folder that there are three files: one for drafts, one for pages, and one for posts. In order to solve my problem, I edited the YAML for the post file. This created a template for the ```octopress new post "New Post"``` command to generate a post with the same YAML front matter as the other posts. 
 
 Now, the YAML looks like this: 
 {% highlight ruby %}
