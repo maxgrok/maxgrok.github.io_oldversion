@@ -5,7 +5,7 @@ author:     Max
 tags: 		Update
 subtitle:   Blog Scaffolding
 category:   Blog Scaffolding
-date: 2017-01-05 T20:34:34-05:00
+date: 2017-01-05T20:34:34-05:00
 ---
 
 Demo!
