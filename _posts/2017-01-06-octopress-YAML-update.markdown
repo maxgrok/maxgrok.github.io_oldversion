@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Octopress: YAML _templates"
+title: "YAML _templates"
 author: Max
 tags: Update
 subtitle: Update
