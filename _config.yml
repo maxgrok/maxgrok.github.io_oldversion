@@ -12,7 +12,7 @@ headercolor: "#FFFFFF"
 logo: img/avatar.png
 
 # Tertiary Parameters
-github_username:  maxgrok 
+github_username: maxgrok 
 project_repository: maxgrok.github.io
 disqus_shortname: maxgrok
 g-analytics: UA-88591249-1
