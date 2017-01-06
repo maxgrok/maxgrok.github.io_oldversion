@@ -11,6 +11,6 @@ comments: true
 
 Right now, the Disqus comments are not working. I signed up for an account under the username 'maxgrok'. 
 
-I'm looking into the problem now. 
+I'm looking into the problem. 
 
 
