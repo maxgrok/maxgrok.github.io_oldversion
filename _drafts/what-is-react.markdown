@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Stuck"
-date: 2017-01-06T17:56:42-05:00
+title: "What Is React?"
 author: Max
 tags: Update
 subtitle: Update
 category: Update
-published: false
+date: 2017-01-10T15:58:00-05:00
 comments: true
 ---
 

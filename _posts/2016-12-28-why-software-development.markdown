@@ -10,7 +10,7 @@ comments: true
 
 I'd like to help build a bright future with kind, passionate people. 
 
-To paraphrase what I've written before, I think up ideas for social good startups spontaneously, however I have lacked the skills necessary to build their minimum viable products. In 2012, I began learning how to code part-time through a variety of online methods such as Treehouse, Codecademy, Learn Ruby the Hard Way, etc. In 2015, I started studying with Flatiron. 
+To paraphrase what I've written before, I think up ideas for social good startups spontaneously, however I have lacked the skills necessary to build their minimum viable products. In 2012, I began learning how to code through a variety of online methods such as Treehouse, Codecademy, Learn Ruby the Hard Way, etc. In 2015, I started studying with Flatiron. 
 
 What I am learning is that becoming a software developer means becoming equipped with skills to build the future. These skills include writing software for self-driving cars or writing code for prosthetic limbs. This means making a meaningful impact on the future of the world. 
 
