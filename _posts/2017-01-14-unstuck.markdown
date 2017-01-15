@@ -68,5 +68,5 @@ Here is the result of calling the sort method:
 
 There you have it! I solved the problem. 
 
-All the Best,
+All the Best,<br>
 Max 
