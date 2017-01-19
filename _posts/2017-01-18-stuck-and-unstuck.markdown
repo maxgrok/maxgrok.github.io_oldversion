@@ -9,7 +9,7 @@ category: Flatiron School
 comments: true
 ---
 
-I was stuck on the last counting sentences lab. I didn't know that there was a .squeeze method or to use regex with the solution. 
+I was stuck on the last counting sentences lab. The task of the last lab question is to count all the sentences in a given string. However, I didn't know that there was a .squeeze method or to use regex with the solution. 
 
 Here's what I was working with before, while I was stuck: 
 {% highlight ruby %}
@@ -30,6 +30,8 @@ def count_sentences
 	end
 end
 {% endhighlight %}
+
+It managed to count the sentences and return 0 when the string was empty, however it could not handle complex sentences such as "Well, there is a sentence!! This is another? And another? Woo...".<br>
 
 The solution I used combines regex with the .squeeze method to eliminate duplicate characters while detecting punctuation. 
 
