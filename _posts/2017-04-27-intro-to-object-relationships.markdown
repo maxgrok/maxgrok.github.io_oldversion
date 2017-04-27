@@ -31,16 +31,16 @@ One song belongs to one artist in this continued example. How do we represent th
 
 		def initialize(title)
 			@title = title
-			end
 		end
+	end
 	Class Artist
-			attr_accessor :name, :genre
+		attr_accessor :name, :genre
 
-			def initialize(name, genre)
-				@name = name
-				@genre = genre
-			end
+		def initialize(name, genre)
+			@name = name
+			@genre = genre
 		end
+	end
 ```
 Great! Now we can explore that relationship. 
 
