@@ -3,7 +3,7 @@ layout: post
 title: "Intro to Object Relationships"
 author: Max
 tags: OO_Ruby Update
-subtitle: Update
+subtitle: "Belongs To" & "Has Many"
 category: Update
 date: 2017-04-27T12:49:23-04:00
 comments: true
