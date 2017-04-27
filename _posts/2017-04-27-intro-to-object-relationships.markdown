@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Stuck & Unstuck:Intro to Object Relationships"
+title: "Stuck & Unstuck: Intro to Object Relationships"
 author: Max
-tags: OO_Ruby Update
+tags: OO_Ruby Object_Relationships Update
 subtitle: Belongs To & Has Many Relationships
 category: Update
 date: 2017-04-27T12:49:23-04:00
