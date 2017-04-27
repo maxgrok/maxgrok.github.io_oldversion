@@ -53,13 +53,15 @@ So, if we try to find out the artist genre or name, we can simply use the song n
 ``` kiss_you_in_the_morning.artist.genre #=> "Country"
 kiss_you_in_the_morning.artist.name #=> "Michael Ray"```
 
-To quote the Flatiron curriculum, "a song can only have on artist (atleast in our domain model), so we say that a song "belongs to" an artist." 
+To quote the Flatiron curriculum, "a song can only have one artist (atleast in our domain model), so we say that a song "belongs to" an artist." 
 
 So, what if we want to represent the relationship that Artist have in the real-world to songs? What can we use in code to represent an artist having many different songs? 
 
 <h2>"Has Many" Relationship</h2>
 
 The answer is to use the inverse of the "belongs to" relationship, the "has many" relationship. 
+
+
 
 
 <h2>"Has Many Object" Lab</h2>
