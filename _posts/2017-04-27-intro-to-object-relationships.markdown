@@ -26,21 +26,19 @@ This leads us to the first relationship between objects that we will explore.
 One song belongs to one artist in this continued example. How do we represent this in code? 
 
 ``` Class Song
-attr_accessor :title, :artist
+		attr_accessor :title, :artist
 
-def initialize(title)
-	@title = title
-	end
-	end
+		def initialize(title)
+			@title = title
+			end
+		end```
+	``` Class Artist
+			attr_accessor :name, :genre
 
-	Class Artist
-	attr_accessor :name, :genre
-
-	def initialize(name, genre)
-		@name = name
-		@genre = genre
-		end
-
+			def initialize(name, genre)
+				@name = name
+				@genre = genre
+			end
 		end```
 
 Great! Now we can explore that relationship. 
