@@ -80,7 +80,6 @@ This means that the artist has many songs. How do we represent this in code?
 			@songs << song
 		end
 	end
-
 	Class Song
 		attr_accessor :title, :artist
 
