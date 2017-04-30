@@ -63,7 +63,8 @@ The answer is to use the inverse of the "belongs to" relationship, the "has many
 
 This means that the artist has many songs. How do we represent this in code? 
 
-``` class Artist
+``` 
+	class Artist
 		attr_accessor :name
 
 		def initialize(name)
@@ -86,5 +87,6 @@ This means that the artist has many songs. How do we represent this in code?
 		def initialize(title)
 			@title = title
 		end
-	end ``` 
+	end 
+``` 
 
