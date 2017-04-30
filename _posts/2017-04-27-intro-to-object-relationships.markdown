@@ -89,6 +89,6 @@ This means that the artist has many songs. How do we represent this in code?
 	end 
 ``` 
 
-First we initialize with an empty collection of songs, then we make a instance method called "add_songs" to add songs to our instance variable array @songs. Third, we need a way to view our songs, so we make a instance method called songs, which only displays our songs for that specific artist. This is who we represent the "has many" relationship in code. 
+First we initialize with an empty collection of songs. Second, we make a instance method called "add_songs" to add songs to our instance variable array @songs. Third, we need a way to view our songs, so we make a instance method called songs, which only displays our songs for that specific artist. This is who we represent the "has many" relationship in code. 
 
 This is a basic introduction to object relationships. 
