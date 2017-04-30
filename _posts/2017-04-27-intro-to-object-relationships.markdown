@@ -61,7 +61,30 @@ So, what if we want to represent the relationship that Artist have in the real-w
 
 The answer is to use the inverse of the "belongs to" relationship, the "has many" relationship. 
 
+This means that the artist has many songs. How do we represent this in code? 
 
+```class Artist
+		attr_accessor :name
 
+		def initialize(name)
+			@name = name
+			@songs = []
+		end
 
-<h2>"Has Many Object" Lab</h2>
+		def songs 
+			@songs
+		end
+
+		def add_songs(song)
+			@songs << song
+		end
+	end
+
+	class Song
+		attr_accessor :title, :artist
+
+		def initialize(title)
+			@title = title
+		end
+	end``` 
+
