@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Project 1"
-description: "Description of Project #1"
+title: "Host Home"
+description: "Home Away From Home"
 header-img: "img/home-bg.jpg"
-category: project1
+category: HostHome
 ---
