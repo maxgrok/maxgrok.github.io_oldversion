@@ -1,7 +1,9 @@
 ---
 layout: project
-title: "Host Home"
+title: "HostHome"
 description: "Home Away From Home"
-header-img: "img/home-bg.jpg"
+header-img: "img/student_coding.jpeg"
 category: HostHome
 ---
+
+Testing
